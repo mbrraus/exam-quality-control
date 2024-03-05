@@ -1,4 +1,4 @@
-![alt text for screen readers](data_folder\img_data_folder\logo.jpg "Text to show on mouseover")
+![alt text for screen readers](Documentation/images/logo.jpg "Text to show on mouseover")
 
 ### Faculty of Computer Science and Business Information Systems
 
@@ -15,4 +15,4 @@
 - Kaan Özer, matrikelnr: 9123043
 - Müberra Şeyma USLU, matrikelnr: 9123059
 - Illia Rohalskyi, matrikelnr: 9124047
-- Kemal Öztürk, matrikelnr: ?
+- Kemal Eren Öztürk, matrikelnr: 9123044
